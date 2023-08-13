@@ -104,7 +104,7 @@ return {
         filetypes = { "java" },
         on_attach = function(client, bufnr)
           require("jdtls").setup_dap { hotcodereplace = "auto" }
-          require("astronvim.utils.lsp").on_attach(client, bufnr)
+          require("astrolsp").on_attach(client, bufnr)
         end,
       }
 
