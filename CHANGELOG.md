@@ -1,5 +1,12 @@
 # Changelog
 
+## [3.5.1](https://github.com/AstroNvim/astrocommunity/compare/v3.5.0...v3.5.1) (2023-08-17)
+
+
+### Bug Fixes
+
+* **noice-nvim:** detect inc_rename and enable ([#519](https://github.com/AstroNvim/astrocommunity/issues/519)) ([4b951a3](https://github.com/AstroNvim/astrocommunity/commit/4b951a3a67c29d23193697ce84d9cc0b5f4f0649))
+
 ## [3.5.0](https://github.com/AstroNvim/astrocommunity/compare/v3.4.0...v3.5.0) (2023-08-10)
 
 
